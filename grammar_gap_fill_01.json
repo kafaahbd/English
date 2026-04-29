@@ -1,0 +1,101 @@
+{
+  "id": "grammar_gap_fill_01",
+  "name": "Gap-filling Without Clues: Rules 1-3",
+  "type": "concept",
+  "parts": [
+    {
+      "text": "Rule 1: Adjective + Noun. (Noun-এর আগে তার গুণ, অবস্থা বা সংখ্যা বোঝাতে Adjective বসে।)",
+      "questions": [
+        {
+          "id": "r1_q1",
+          "type": "fill",
+          "question": "Education is the ___ backbone of a nation.",
+          "answers": ["main", "only", "real"],
+          "explanation": "Backbone (Noun) এর গুরুত্ব বোঝাতে এখানে Adjective বসেছে।"
+        },
+        {
+          "id": "r1_q2",
+          "type": "fill",
+          "question": "A ___ student always follows his teachers' advice.",
+          "answers": ["good", "diligent", "meritorious", "serious"],
+          "explanation": "ছাত্রের গুণ বোঝাতে Noun-এর আগে Adjective ব্যবহার করা হয়েছে।"
+        },
+        {
+          "id": "r1_q3",
+          "type": "fill",
+          "question": "We should eat a ___ diet to stay healthy.",
+          "answers": ["balanced", "healthy", "proper"],
+          "explanation": "Diet (Noun) এর ধরন বোঝাতে Adjective বসেছে।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 2: Preposition + Noun/Gerund. (Preposition-এর পর Noun বসে। যদি কোনো কাজ বা Verb থাকে, তবে তার সাথে 'ing' যুক্ত করতে হয়।)",
+      "questions": [
+        {
+          "id": "r2_q1",
+          "type": "fill",
+          "question": "We cannot think of success without ___ hard.",
+          "answers": ["working", "laboring", "trying"],
+          "explanation": "Without (Preposition) এর পর verb থাকলে 'ing' যুক্ত হয়।"
+        },
+        {
+          "id": "r2_q2",
+          "type": "fill",
+          "question": "Trees are very important ___ our existence.",
+          "answers": ["for", "to"],
+          "explanation": "উদ্দেশ্য বা সম্পর্ক বোঝাতে এখানে appropriate preposition বসেছে।"
+        },
+        {
+          "id": "r2_q3",
+          "type": "match",
+          "pairs": [
+            { "left": "Addicted", "right": "to gambling" },
+            { "left": "Abide", "right": "by rules" },
+            { "left": "Suffer", "right": "from fever" }
+          ],
+          "explanation": "এগুলো নির্দিষ্ট Preposition-এর ব্যবহার (Appropriate Prepositions)।"
+        },
+        {
+          "id": "r2_q4",
+          "type": "match",
+          "pairs": [
+            { "left": "Depend", "right": "on others" },
+            { "left": "Listen", "right": "to parents" },
+            { "left": "Famous", "right": "for honesty" }
+          ],
+          "explanation": "বাক্যের অর্থ ও গ্রামার অনুযায়ী সঠিক Preposition ম্যাচিং।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 3: Article (a, an, the) + Noun. (Noun-কে নির্দিষ্ট বা অনির্দিষ্ট করতে Article ব্যবহৃত হয়।)",
+      "questions": [
+        {
+          "id": "r3_q1",
+          "type": "fill",
+          "question": "The cow is ___ useful animal.",
+          "answers": ["a"],
+          "explanation": "'Useful' এর উচ্চারণ 'u' বা 'yoo' এর মতো হওয়ায় 'a' বসেছে।"
+        },
+        {
+          "id": "r3_q2",
+          "type": "mcq",
+          "question": "What fits in: 'He is ___ university student'?",
+          "options": ["a", "an", "the", "none"],
+          "answer": "a",
+          "explanation": "University এর শুরুতে ভাওয়েল থাকলেও উচ্চারণ 'ইউ' এর মতো বলে 'a' হবে।"
+        },
+        {
+          "id": "r3_q3",
+          "type": "gapfill",
+          "question": "Complete the sentence with correct articles.",
+          "text": "___ Sun rises in ___ East.",
+          "answers": ["The", "the"],
+          "wordBank": ["The", "the", "A", "An", "A/An"],
+          "explanation": "মহাজাগতিক বস্তু এবং দিকের নামের আগে সবসময় 'The' বসে।"
+        }
+      ]
+    }
+  ]
+}
