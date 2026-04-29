@@ -1,0 +1,91 @@
+{
+  "id": "practice_grammar_mixed_01_v3",
+  "name": "Grammar Mastery: Mixed Practice",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p1",
+      "type": "fill",
+      "question": "A ___ man is respected by all.",
+      "answers": ["pious", "honest", "truthful", "kind", "good"],
+      "explanation": "pious/honest/truthful/kind/good. Noun (man)-এর আগে তার গুণ বোঝাতে একটি Adjective বসাতে হবে।"
+    },
+    {
+      "id": "p2",
+      "type": "match",
+      "question": "Match the words with their correct prepositions.",
+      "pairs": [
+        { "left": "Addicted", "right": "to" },
+        { "left": "Full", "right": "of" },
+        { "left": "Good", "right": "at" }
+      ],
+      "explanation": "এগুলো এপ্রোপ্রিয়েট প্রিপজিশন (Appropriate Prepositions) এর সঠিক ব্যবহার।"
+    },
+    {
+      "id": "p3",
+      "type": "fill",
+      "question": "He is very weak ___ English.",
+      "answers": ["in"],
+      "explanation": "in. কোনো নির্দিষ্ট বিষয়ে দক্ষতা বা দুর্বলতা বোঝাতে 'in' preposition ব্যবহৃত হয়।"
+    },
+    {
+      "id": "p4",
+      "type": "gapfill",
+      "question": "Complete the sentence with correct articles.",
+      "text": "___ Sun rises in ___ East.",
+      "answers": ["The", "the"],
+      "wordBank": ["The", "the", "A", "An", "A/An"],
+      "explanation": "মহাজাগতিক বস্তু এবং দিকের নামের আগে নির্দিষ্ট করে 'The' বসে।"
+    },
+    {
+      "id": "p5",
+      "type": "fill",
+      "question": "He has ___ M.A. in English.",
+      "answers": ["an"],
+      "explanation": "an. M.A. এর প্রথম অক্ষর 'M' এর উচ্চারণ ভাওয়েলের মতো (em) হওয়ায় এর আগে 'an' বসে।"
+    },
+    {
+      "id": "p6",
+      "type": "mcq",
+      "question": "Which article is used before the word 'Unique'?",
+      "options": ["a", "an", "the", "no article"],
+      "answer": "a",
+      "explanation": "Unique-এর শুরুতে 'u' এর উচ্চারণ 'ইউ' এর মতো হওয়ায় 'an' না বসে 'a' বসে।"
+    },
+    {
+      "id": "p7",
+      "type": "fill",
+      "question": "We should not laugh ___ the poor.",
+      "answers": ["at"],
+      "explanation": "at. 'Laugh at' একটি এপ্রোপ্রিয়েট প্রিপজিশন যার অর্থ কাউকে নিয়ে উপহাস করা।"
+    },
+    {
+      "id": "p8",
+      "type": "gapfill",
+      "question": "Use the correct preposition and noun.",
+      "text": "He died ___ his country ___ 1971.",
+      "answers": ["for", "in"],
+      "wordBank": ["for", "in", "by", "of", "at"],
+      "explanation": "দেশের জন্য প্রাণ দেওয়া বোঝাতে 'for' এবং সালের আগে 'in' বসে।"
+    },
+    {
+      "id": "p9",
+      "type": "fill",
+      "question": "Reading is a ___ habit.",
+      "answers": ["good", "great", "noble", "useful"],
+      "explanation": "good/great/noble/useful. Habit (Noun)-এর আগে একটি বর্ণনামূলক Adjective প্রয়োজন।"
+    },
+    {
+      "id": "p10",
+      "type": "match",
+      "question": "Match the word with its correct grammatical role.",
+      "pairs": [
+        { "left": "Beautiful", "right": "Adjective" },
+        { "left": "Before", "right": "Preposition" },
+        { "left": "An", "right": "Article" }
+      ],
+      "explanation": "গ্রামাটিক্যাল শ্রেণি বা Parts of Speech অনুযায়ী ম্যাচিং করা হয়েছে।"
+    }
+  ]
+}
+
