@@ -1,5 +1,5 @@
 {
-  "id": "grammar_gap_fill_01",
+  "id": "grammar_gap_fill_01_v2",
   "name": "Gap-filling Without Clues: Rules 1-3",
   "type": "concept",
   "parts": [
@@ -11,40 +11,40 @@
           "type": "fill",
           "question": "Education is the ___ backbone of a nation.",
           "answers": ["main", "only", "real"],
-          "explanation": "Backbone (Noun) এর গুরুত্ব বোঝাতে এখানে Adjective বসেছে।"
+          "explanation": "Answer: main/only/real. এখানে Backbone (Noun) এর গুরুত্ব বা বৈশিষ্ট্য বোঝাতে একটি Adjective ব্যবহার করা হয়েছে।"
         },
         {
           "id": "r1_q2",
           "type": "fill",
           "question": "A ___ student always follows his teachers' advice.",
           "answers": ["good", "diligent", "meritorious", "serious"],
-          "explanation": "ছাত্রের গুণ বোঝাতে Noun-এর আগে Adjective ব্যবহার করা হয়েছে।"
+          "explanation": "Answer: good/diligent/meritorious. ছাত্রের (student) গুণ বা প্রকৃতি বর্ণনা করার জন্য Noun-এর আগে Adjective বসেছে।"
         },
         {
           "id": "r1_q3",
           "type": "fill",
           "question": "We should eat a ___ diet to stay healthy.",
           "answers": ["balanced", "healthy", "proper"],
-          "explanation": "Diet (Noun) এর ধরন বোঝাতে Adjective বসেছে।"
+          "explanation": "Answer: balanced/healthy. Diet (Noun) এর ধরন বা প্রকার বোঝাতে এখানে Adjective বসেছে।"
         }
       ]
     },
     {
-      "text": "Rule 2: Preposition + Noun/Gerund. (Preposition-এর পর Noun বসে। যদি কোনো কাজ বা Verb থাকে, তবে তার সাথে 'ing' যুক্ত করতে হয়।)",
+      "text": "Rule 2: Preposition + Noun/Gerund. (Preposition-এর পর Noun বসে। যদি কোনো কাজ বা Verb থাকে, তবে তার সাথে 'ing' যুক্ত করে Gerund করতে হয়।)",
       "questions": [
         {
           "id": "r2_q1",
           "type": "fill",
           "question": "We cannot think of success without ___ hard.",
           "answers": ["working", "laboring", "trying"],
-          "explanation": "Without (Preposition) এর পর verb থাকলে 'ing' যুক্ত হয়।"
+          "explanation": "Answer: working/laboring. Rule অনুযায়ী Without (Preposition) এর পর verb থাকলে তার সাথে 'ing' যুক্ত হয়।"
         },
         {
           "id": "r2_q2",
           "type": "fill",
           "question": "Trees are very important ___ our existence.",
           "answers": ["for", "to"],
-          "explanation": "উদ্দেশ্য বা সম্পর্ক বোঝাতে এখানে appropriate preposition বসেছে।"
+          "explanation": "Answer: for/to. আমাদের অস্তিত্বের জন্য বা কাছে গুরুত্ব বোঝাতে এখানে সঠিক Appropriate Preposition বসেছে।"
         },
         {
           "id": "r2_q3",
@@ -54,7 +54,7 @@
             { "left": "Abide", "right": "by rules" },
             { "left": "Suffer", "right": "from fever" }
           ],
-          "explanation": "এগুলো নির্দিষ্ট Preposition-এর ব্যবহার (Appropriate Prepositions)।"
+          "explanation": "Answer: Addicted to, Abide by, Suffer from. এগুলো ইংরেজি গ্রামারের নির্দিষ্ট Preposition-এর ব্যবহার (Appropriate Prepositions)।"
         },
         {
           "id": "r2_q4",
@@ -64,7 +64,7 @@
             { "left": "Listen", "right": "to parents" },
             { "left": "Famous", "right": "for honesty" }
           ],
-          "explanation": "বাক্যের অর্থ ও গ্রামার অনুযায়ী সঠিক Preposition ম্যাচিং।"
+          "explanation": "Answer: Depend on, Listen to, Famous for. বাক্যের অর্থ ও গ্রামাটিক্যাল স্ট্রাকচার অনুযায়ী সঠিক Preposition ম্যাচিং।"
         }
       ]
     },
@@ -76,7 +76,7 @@
           "type": "fill",
           "question": "The cow is ___ useful animal.",
           "answers": ["a"],
-          "explanation": "'Useful' এর উচ্চারণ 'u' বা 'yoo' এর মতো হওয়ায় 'a' বসেছে।"
+          "explanation": "Answer: a. 'Useful' এর শুরুতে ভাওয়েল (u) থাকলেও এর উচ্চারণ 'u' বা 'yoo' এর মতো হওয়ায় নিয়ম অনুযায়ী 'a' বসেছে।"
         },
         {
           "id": "r3_q2",
@@ -84,7 +84,7 @@
           "question": "What fits in: 'He is ___ university student'?",
           "options": ["a", "an", "the", "none"],
           "answer": "a",
-          "explanation": "University এর শুরুতে ভাওয়েল থাকলেও উচ্চারণ 'ইউ' এর মতো বলে 'a' হবে।"
+          "explanation": "Answer: a. University এর শুরুতে ভাওয়েল থাকলেও উচ্চারণ 'ইউ' এর মতো হওয়ার কারণে 'a' সঠিক উত্তর।"
         },
         {
           "id": "r3_q3",
@@ -93,7 +93,7 @@
           "text": "___ Sun rises in ___ East.",
           "answers": ["The", "the"],
           "wordBank": ["The", "the", "A", "An", "A/An"],
-          "explanation": "মহাজাগতিক বস্তু এবং দিকের নামের আগে সবসময় 'The' বসে।"
+          "explanation": "Answer: The, the. পৃথিবী, সূর্য, চন্দ্র এবং দিকের (East, West) নামের আগে সবসময় নির্দিষ্টকারী Article 'The' বসে।"
         }
       ]
     }
