@@ -4,7 +4,7 @@
   "type": "concept",
   "parts": [
     {
-      "text": "Rule 4: Verb + Adverb. (Verb-কে বর্ণনা করার জন্য সাধারণত শূন্যস্থানে Adverb বসে। অধিকাংশ ক্ষেত্রে Adjective-এর শেষে 'ly' যুক্ত করে Adverb গঠিত হয়।)",
+      "text": "Verb + Adverb. (Verb-কে বর্ণনা করার জন্য সাধারণত শূন্যস্থানে Adverb বসে। অধিকাংশ ক্ষেত্রে Adjective-এর শেষে 'ly' যুক্ত করে Adverb গঠিত হয়।)",
       "questions": [
         {
           "id": "r4_q1",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "text": "Rule 5: Relative Pronoun (Who, Which, That). (Noun-এর ঠিক পরে বসে ওই Noun-টিকে নির্দেশ করার জন্য Relative Pronoun ব্যবহৃত হয়। ব্যক্তির জন্য Who এবং বস্তু বা প্রাণীর জন্য Which/That বসে।)",
+      "text": "Relative Pronoun (Who, Which, That). (Noun-এর ঠিক পরে বসে ওই Noun-টিকে নির্দেশ করার জন্য Relative Pronoun ব্যবহৃত হয়। ব্যক্তির জন্য Who এবং বস্তু বা প্রাণীর জন্য Which/That বসে।)",
       "questions": [
         {
           "id": "r5_q1",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "text": "Rule 6: Modal Verb + Base Form of Verb. (Can, could, may, might, shall, should, will, would, must-এই শব্দগুলোর পরে সবসময় ভার্ব-এর মূল রূপ বা Base Form বসে।)",
+      "text": "Modal Verb + Base Form of Verb. (Can, could, may, might, shall, should, will, would, must-এই শব্দগুলোর পরে সবসময় ভার্ব-এর মূল রূপ বা Base Form বসে।)",
       "questions": [
         {
           "id": "r6_q1",
