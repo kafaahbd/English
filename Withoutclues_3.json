@@ -16,8 +16,8 @@
       "question": "Match the following phrases with their correct prepositions.",
       "pairs": [
         { "left": "Specialized", "right": "in" },
-        { "left": "Harmful", "right": "to" },
-        { "left": "Kind", "right": "to" }
+        { "left": "Harmful", "right": "to" }
+        
       ],
       "explanation": "এগুলো নির্দিষ্ট শব্দের পর বসা এপ্রোপ্রিয়েট প্রিপজিশন (Appropriate Prepositions)।"
     },
@@ -82,7 +82,8 @@
       "pairs": [
         { "left": "Honesty", "right": "Noun" },
         { "left": "Diligent", "right": "Adjective" },
-        { "left": "Under", "right": "Preposition" }
+        { "left": "Under", "right": "Preposition" },
+        { "left": "Kind", "right": "to" }
       ],
       "explanation": "শব্দগুলোর ব্যাকরণগত পরিচয় (Parts of Speech) অনুযায়ী ম্যাচিং করা হয়েছে।"
     }
