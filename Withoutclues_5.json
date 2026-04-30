@@ -1,0 +1,89 @@
+{
+  "id": "Withoutclues_5",
+  "name": "Grammar Mastery: Mixed Practice Set 03",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p3_1",
+      "type": "fill",
+      "question": "Success depends ___ hard work.",
+      "answers": ["on", "upon"],
+      "explanation": "on/upon. 'Depend'-এর সাথে এপ্রোপ্রিয়েট প্রিপজিশন হিসেবে 'on' বা 'upon' বসে (Rule 2)।"
+    },
+    {
+      "id": "p3_2",
+      "type": "match",
+      "question": "Match the word with its correct part of speech.",
+      "pairs": [
+        { "left": "Quickly", "right": "Adverb" },
+        { "left": "Must", "right": "Modal Verb" },
+        { "left": "Which", "right": "Relative Pronoun" }
+      ],
+      "explanation": "শব্দগুলোর ব্যাকরণগত ভূমিকা অনুযায়ী সঠিক ম্যাচিং করা হয়েছে (Rule 4, 5 & 6)।"
+    },
+    {
+      "id": "p3_3",
+      "type": "fill",
+      "question": "A ___ flower is loved by everyone.",
+      "answers": ["beautiful", "fresh", "sweet", "blooming"],
+      "explanation": "beautiful/fresh. Flower (Noun)-এর গুণ বোঝাতে এখানে একটি Adjective প্রয়োজন (Rule 1)।"
+    },
+    {
+      "id": "p3_4",
+      "type": "mcq",
+      "question": "Identify the Relative Pronoun used for a person.",
+      "options": ["Who", "Which", "What", "Whose"],
+      "answer": "Who",
+      "explanation": "Who. সাধারণত ব্যক্তিকে নির্দেশ করতে Relative Pronoun হিসেবে 'Who' ব্যবহৃত হয় (Rule 5)।"
+    },
+    {
+      "id": "p3_5",
+      "type": "fill",
+      "question": "Iron is ___ useful metal.",
+      "answers": ["a"],
+      "explanation": "a. 'Useful'-এর উচ্চারণ 'ইউ' (yoo) এর মতো হওয়ায় ভাওয়েল থাকলেও এর আগে 'a' বসে (Rule 3)।"
+    },
+    {
+      "id": "p3_6",
+      "type": "gapfill",
+      "question": "Complete the sentence with an adverb and modal verb.",
+      "text": "We must drive ___ and we should ___ the traffic rules.",
+      "answers": ["carefully", "follow"],
+      "wordBank": ["carefully", "follow", "careful", "follows", "fastly"],
+      "explanation": "carefully, follow. ওড়ার ধরন বোঝাতে Adverb 'carefully' এবং Modal-এর পর base form 'follow' সঠিক (Rule 4 & 6)।"
+    },
+    {
+      "id": "p3_7",
+      "type": "fill",
+      "question": "The bird flies ___ in the sky.",
+      "answers": ["swiftly", "fast", "quickly", "freely"],
+      "explanation": "swiftly/freely. ওড়ার (Verb) ধরন বা গতি বোঝাতে এখানে একটি Adverb ব্যবহার করতে হবে (Rule 4)।"
+    },
+    {
+      "id": "p3_8",
+      "type": "match",
+      "question": "Match the appropriate prepositions and articles.",
+      "pairs": [
+        { "left": "Abide", "right": "by" },
+        { "left": "Look", "right": "at" },
+        { "left": "The", "right": "Sun" }
+      ],
+      "explanation": "গ্রামারের প্রাথমিক নিয়ম (Preposition & Article) অনুযায়ী সঠিক জোড়া তৈরি করা হয়েছে (Rule 2 & 3)।"
+    },
+    {
+      "id": "p3_9",
+      "type": "fill",
+      "question": "I have a pen ___ writes well.",
+      "answers": ["which", "that"],
+      "explanation": "which/that. 'Pen' একটি বস্তু, তাই একে নির্দেশ করতে Relative Pronoun হিসেবে which বা that বসে (Rule 5)।"
+    },
+    {
+      "id": "p3_10",
+      "type": "fill",
+      "question": "You should ___ your elders.",
+      "answers": ["respect", "obey", "honor"],
+      "explanation": "respect/obey. Should একটি Modal Verb, তাই এরপর ভার্ব-এর বেস ফর্ম বা মূল রূপ বসে (Rule 6)।"
+    }
+  ]
+}
+
