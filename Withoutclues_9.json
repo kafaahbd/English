@@ -1,0 +1,86 @@
+{
+  "id": "Withoutclues_9",
+  "name": "Grammar Mastery: Mixed Practice Set 06",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p6_1",
+      "type": "fill",
+      "question": "He finished the work ___.",
+      "answers": ["quickly", "successfully", "timely", "perfectly"],
+      "explanation": "quickly/successfully. কাজ শেষ করার ধরন বা গতি বোঝাতে এখানে একটি Adverb প্রয়োজন (Rule 4)।"
+    },
+    {
+      "id": "p6_2",
+      "type": "fill",
+      "question": "A ___ mind is a great asset.",
+      "answers": ["sound", "creative", "healthy", "pure"],
+      "explanation": "sound/healthy. Mind (Noun)-এর অবস্থা বা গুণ বোঝাতে এখানে Adjective বসেছে (Rule 1)।"
+    },
+    {
+      "id": "p6_3",
+      "type": "mcq",
+      "question": "Which relative pronoun is correct for 'This is the house ___ I live in'?",
+      "options": ["which", "who", "whom", "whose"],
+      "answer": "which",
+      "explanation": "which. 'House' একটি বস্তু বা স্থান, তাই একে নির্দেশ করতে Relative Pronoun হিসেবে which সঠিক (Rule 5)।"
+    },
+    {
+      "id": "p6_4",
+      "type": "fill",
+      "question": "I saw a man ___ was very old.",
+      "answers": ["who"],
+      "explanation": "who. ব্যক্তিকে নির্দেশ করতে Relative Pronoun হিসেবে 'who' বসে (Rule 5)।"
+    },
+    {
+      "id": "p6_5",
+      "type": "gapfill",
+      "question": "Complete the instruction with correct word forms.",
+      "text": "You must ___ your room ___ every day.",
+      "answers": ["clean", "properly"],
+      "wordBank": ["clean", "properly", "cleaning", "proper", "to clean"],
+      "explanation": "clean, properly. Modal-এর পর base verb এবং কাজের ধরন বোঝাতে Adverb বসেছে (Rules 4 & 6)।"
+    },
+    {
+      "id": "p6_6",
+      "type": "fill",
+      "question": "The boy went to school ___ it was raining.",
+      "answers": ["though", "although"],
+      "explanation": "though/although. বৃষ্টি হওয়া সত্ত্বেও স্কুলে যাওয়ার বৈপরীত্য বোঝাতে এই Conjunction-টি ব্যবহৃত হয় (Rule 9)।"
+    },
+    {
+      "id": "p6_7",
+      "type": "fill",
+      "question": "I am looking for a room ___.",
+      "answers": ["to rent", "to live"],
+      "explanation": "to rent/to live. রুম খোঁজার উদ্দেশ্য বোঝাতে এখানে Infinitive (to + verb) বসেছে (Rule 7)।"
+    },
+    {
+      "id": "p6_8",
+      "type": "match",
+      "question": "Match the words with their specific prepositions.",
+      "pairs": [
+        { "left": "Addicted", "right": "to" },
+        { "left": "Suffer", "right": "from" },
+        { "left": "Famous", "right": "for" }
+      ],
+      "explanation": "এগুলো নির্দিষ্ট শব্দের পর বসা এপ্রোপ্রিয়েট প্রিপজিশন (Rule 2)।"
+    },
+    {
+      "id": "p6_9",
+      "type": "fill",
+      "question": "We should take exercise in ___ morning.",
+      "answers": ["the"],
+      "explanation": "the. দিনের নির্দিষ্ট সময়ের আগে 'the' আর্টিকেল বসে (Rules 3 & 8)।"
+    },
+    {
+      "id": "p6_10",
+      "type": "mcq",
+      "question": "Identify the correct conjunction: 'Do ___ die.'",
+      "options": ["or", "and", "but", "so"],
+      "answer": "or",
+      "explanation": "or. দুটি বিকল্প বা জীবন-মরণ পরিস্থিতির মধ্যে পছন্দ বোঝাতে 'or' ব্যবহৃত হয় (Rule 9)।"
+    }
+  ]
+}
+
