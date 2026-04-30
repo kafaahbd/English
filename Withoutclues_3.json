@@ -1,0 +1,91 @@
+{
+  "id": "Withoutclues_3",
+  "name": "Grammar Mastery: Practice Set 02",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p2_1",
+      "type": "fill",
+      "question": "He is an ___ man.",
+      "answers": ["honest", "honorable", "upright"],
+      "explanation": "honest/honorable. Man (Noun)-এর আগে তার গুণ প্রকাশ করতে Adjective হিসেবে 'honest' সঠিক।"
+    },
+    {
+      "id": "p2_2",
+      "type": "match",
+      "question": "Match the following phrases with their correct prepositions.",
+      "pairs": [
+        { "left": "Specialized", "right": "in" },
+        { "left": "Harmful", "right": "to" },
+        { "left": "Kind", "right": "to" }
+      ],
+      "explanation": "এগুলো নির্দিষ্ট শব্দের পর বসা এপ্রোপ্রিয়েট প্রিপজিশন (Appropriate Prepositions)।"
+    },
+    {
+      "id": "p2_3",
+      "type": "fill",
+      "question": "We should read ___ holy Quran every day.",
+      "answers": ["the"],
+      "explanation": "the. ধর্মীয় পবিত্র ধর্মগ্রন্থের নামের আগে সবসময় Article হিসেবে 'the' বসে।"
+    },
+    {
+      "id": "p2_4",
+      "type": "gapfill",
+      "question": "Complete the sentence using the wordbank.",
+      "text": "A ___ worker can change his ___.",
+      "answers": ["diligent", "lot"],
+      "wordBank": ["diligent", "lot", "lazy", "luckily", "diligence"],
+      "explanation": "এখানে 'diligent' (পরিশ্রমী) একটি Adjective যা 'worker' কে বর্ণনা করছে এবং 'lot' মানে ভাগ্য।"
+    },
+    {
+      "id": "p2_5",
+      "type": "fill",
+      "question": "It is ___ unique opportunity for me.",
+      "answers": ["a"],
+      "explanation": "a. 'Unique' এর উচ্চারণ 'ইউ' (yoo) এর মতো হওয়ায় ভাওয়েল থাকা সত্ত্বেও এর আগে 'a' বসে।"
+    },
+    {
+      "id": "p2_6",
+      "type": "mcq",
+      "question": "Which word is an Adjective in the sentence: 'The blue sky looks beautiful'?",
+      "options": ["blue", "sky", "looks", "the"],
+      "answer": "blue",
+      "explanation": "blue. এটি 'sky' (Noun) এর রঙ বা অবস্থা বর্ণনা করছে, তাই এটি একটি Adjective।"
+    },
+    {
+      "id": "p2_7",
+      "type": "fill",
+      "question": "A library is a ___ house of knowledge.",
+      "answers": ["treasure", "big", "vast", "great"],
+      "explanation": "treasure/vast. 'House' (Noun) এর আগে তার বৈশিষ্ট্য বোঝাতে এখানে Adjective বসেছে।"
+    },
+    {
+      "id": "p2_8",
+      "type": "gapfill",
+      "question": "Fill in the gaps with articles.",
+      "text": "Corruption is ___ obstacle to ___ development.",
+      "answers": ["an", "no article"],
+      "wordBank": ["an", "a", "the", "no article"],
+      "explanation": "Obstacle-এর শুরুতে ভাওয়েল সাউন্ড থাকায় 'an' বসেছে; 'development' একটি Abstract Noun হওয়ায় এর আগে আর্টিকেল প্রয়োজন নেই।"
+    },
+    {
+      "id": "p2_9",
+      "type": "fill",
+      "question": "The flowers are full ___ beauty.",
+      "answers": ["of"],
+      "explanation": "of. 'Full of' একটি এপ্রোপ্রিয়েট প্রিপজিশন যার অর্থ কোনো কিছুতে পূর্ণ থাকা।"
+    },
+    {
+      "id": "p2_10",
+      "type": "match",
+      "question": "Match the grammatical roles with the words.",
+      "pairs": [
+        { "left": "Honesty", "right": "Noun" },
+        { "left": "Diligent", "right": "Adjective" },
+        { "left": "Under", "right": "Preposition" }
+      ],
+      "explanation": "শব্দগুলোর ব্যাকরণগত পরিচয় (Parts of Speech) অনুযায়ী ম্যাচিং করা হয়েছে।"
+    }
+  ]
+}
+
