@@ -4,7 +4,7 @@
   "type": "concept",
   "parts": [
     {
-      "text": "Rule 1: Adjective + Noun. (Noun-এর আগে তার গুণ, অবস্থা বা সংখ্যা বোঝাতে Adjective বসে।)",
+      "text": "Adjective + Noun. (Noun-এর আগে তার গুণ, অবস্থা বা সংখ্যা বোঝাতে Adjective বসে।)",
       "questions": [
         {
           "id": "r1_q1",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "text": "Rule 2: Preposition + Noun/Gerund. (Preposition-এর পর Noun বসে। যদি কোনো কাজ বা Verb থাকে, তবে তার সাথে 'ing' যুক্ত করে Gerund করতে হয়।)",
+      "text": "Preposition + Noun/Gerund. (Preposition-এর পর Noun বসে। যদি কোনো কাজ বা Verb থাকে, তবে তার সাথে 'ing' যুক্ত করে Gerund করতে হয়।)",
       "questions": [
         {
           "id": "r2_q1",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "text": "Rule 3: Article (a, an, the) + Noun. (Noun-কে নির্দিষ্ট বা অনির্দিষ্ট করতে Article ব্যবহৃত হয়।)",
+      "text": "Article (a, an, the) + Noun. (Noun-কে নির্দিষ্ট বা অনির্দিষ্ট করতে Article ব্যবহৃত হয়।)",
       "questions": [
         {
           "id": "r3_q1",
