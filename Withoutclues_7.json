@@ -1,0 +1,75 @@
+{
+  "id": "grammar_gap_fill_03",
+  "name": "Gap-filling Without Clues: Rules 7-9",
+  "type": "concept",
+  "parts": [
+    {
+      "text": "To + Verb (Infinitive) vs. Verb + ing (Gerund). (সাধারণত কোনো উদ্দেশ্য বোঝাতে 'to' এর পর ভার্ব-এর বেস ফর্ম বসে। আবার কিছু নির্দিষ্ট ভার্ব বা প্রিপজিশন-এর পর ভার্ব-এর সাথে 'ing' যুক্ত হয়।)",
+      "questions": [
+        {
+          "id": "r7_q1",
+          "type": "fill",
+          "question": "He went to market ___ a pen.",
+          "answers": ["to buy", "buying"],
+          "explanation": "Answer: to buy. এখানে বাজারে যাওয়ার উদ্দেশ্য বোঝাচ্ছে, তাই Infinitive (to + verb) বসেছে।"
+        },
+        {
+          "id": "r7_q2",
+          "type": "fill",
+          "question": "I look forward to ___ from you soon.",
+          "answers": ["hearing"],
+          "explanation": "Answer: hearing. 'Look forward to' একটি ফ্রেজ যার পর ভার্ব-এর সাথে 'ing' যুক্ত হয়।"
+        }
+      ]
+    },
+    {
+      "text": "Adverb of Time/Place. (বাক্যের শেষে বা শুরুতে সময় অথবা স্থান বোঝাতে নির্দিষ্ট শব্দ বসে। এটি বাক্যের অর্থকে সম্পূর্ণ করে।)",
+      "questions": [
+        {
+          "id": "r8_q1",
+          "type": "fill",
+          "question": "I met him ___ morning.",
+          "answers": ["in the", "this"],
+          "explanation": "Answer: in the / this. সময় নির্দেশ করতে এখানে Adverbial phrase বসেছে।"
+        },
+        {
+          "id": "r8_q2",
+          "type": "fill",
+          "question": "The boy is playing ___.",
+          "answers": ["outside", "now", "there", "happily"],
+          "explanation": "Answer: outside/now. ভার্ব-এর কাজ কোথায় বা কখন হচ্ছে তা বোঝাতে এই শব্দগুলো বসেছে।"
+        }
+      ]
+    },
+    {
+      "text": "Conjunction (And, But, Or, Because). (দুটি শব্দ বা বাক্যকে যুক্ত করতে Conjunction ব্যবহৃত হয়। সমজাতীয় ভাব বোঝাতে And, বিপরীত বোঝাতে But এবং কারণ বোঝাতে Because বসে।)",
+      "questions": [
+        {
+          "id": "r9_q1",
+          "type": "fill",
+          "question": "He is poor ___ honest.",
+          "answers": ["but"],
+          "explanation": "Answer: but. 'গরিব' এবং 'সৎ' বিপরীতধর্মী বৈশিষ্ট্য, তাই এখানে 'but' বসেছে।"
+        },
+        {
+          "id": "r9_q2",
+          "type": "mcq",
+          "question": "Choose the correct conjunction: 'Work hard ___ you will fail.'",
+          "options": ["and", "or", "but", "because"],
+          "answer": "or",
+          "explanation": "Answer: or. সতর্কবাণী বা বিকল্প ফলাফল বোঝাতে 'or' ব্যবহৃত হয়।"
+        },
+        {
+          "id": "r9_q3",
+          "type": "gapfill",
+          "question": "Complete the sentence with because and and.",
+          "text": "He could not attend school ___ he was ill ___ weak.",
+          "answers": ["because", "and"],
+          "wordBank": ["because", "and", "but", "so", "though"],
+          "explanation": "Answer: because, and. কারণ বোঝাতে because এবং দুটি সমজাতীয় অবস্থা যুক্ত করতে and বসেছে।"
+        }
+      ]
+    }
+  ]
+}
+
