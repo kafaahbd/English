@@ -1,0 +1,91 @@
+{
+  "id": "Withoutclues_6",
+  "name": "Grammar Mastery: Mixed Practice Set 04",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p4_1",
+      "type": "fill",
+      "question": "A ___ worker can easily succeed in life.",
+      "answers": ["diligent", "hardworking", "serious", "meritorious"],
+      "explanation": "diligent/hardworking. Worker (Noun)-এর আগে তার গুণ প্রকাশ করতে Adjective হিসেবে 'diligent' সঠিক (Rule 1)।"
+    },
+    {
+      "id": "p4_2",
+      "type": "mcq",
+      "question": "What is the correct article for: 'He is ___ one-eyed man'?",
+      "options": ["a", "an", "the", "no article"],
+      "answer": "a",
+      "explanation": "a. 'One' এর উচ্চারণ 'ওয়া' (wa) এর মতো হওয়ায় ভাওয়েল থাকলেও এর আগে 'a' বসে (Rule 3)।"
+    },
+    {
+      "id": "p4_3",
+      "type": "fill",
+      "question": "We should abide ___ the laws of our country.",
+      "answers": ["by"],
+      "explanation": "by. 'Abide by' একটি এপ্রোপ্রিয়েট প্রিপজিশন যার অর্থ নিয়ম মেনে চলা (Rule 2)।"
+    },
+    {
+      "id": "p4_4",
+      "type": "gapfill",
+      "question": "Complete the sentence with a relative pronoun and a verb.",
+      "text": "The boy ___ is standing there ___ my brother.",
+      "answers": ["who", "is"],
+      "wordBank": ["who", "is", "which", "are", "whom"],
+      "explanation": "who, is. ব্যক্তিকে নির্দেশ করতে 'who' এবং একবচন সাবজেক্ট অনুযায়ী 'is' বসে (Rule 5)।"
+    },
+    {
+      "id": "p4_5",
+      "type": "fill",
+      "question": "The students solved the problem ___.",
+      "answers": ["easily", "quickly", "correctly"],
+      "explanation": "easily/quickly. সমস্যাটি কীভাবে সমাধান করা হয়েছে (Verb) তা বর্ণনা করতে এখানে Adverb প্রয়োজন (Rule 4)।"
+    },
+    {
+      "id": "p4_6",
+      "type": "match",
+      "question": "Match the words with their specific prepositions.",
+      "pairs": [
+        { "left": "Attentive", "right": "to" },
+        { "left": "Full", "right": "of" },
+        { "left": "Laugh", "right": "at" }
+      ],
+      "explanation": "এগুলো এপ্রোপ্রিয়েট প্রিপজিশন (Rule 2) এর সঠিক জোড়া।"
+    },
+    {
+      "id": "p4_7",
+      "type": "fill",
+      "question": "Students must ___ the classroom before the bell rings.",
+      "answers": ["enter", "reach"],
+      "explanation": "enter. 'Must' একটি Modal Verb, তাই নিয়ম অনুযায়ী এরপর ভার্ব-এর মূল রূপ বা Base Form বসে (Rule 6)।"
+    },
+    {
+      "id": "p4_8",
+      "type": "fill",
+      "question": "Books are our ___ friends.",
+      "answers": ["best", "true", "great", "real"],
+      "explanation": "best/true. Friends (Noun)-কে বিশেষভাবে বর্ণনা করতে এখানে একটি উপযুক্ত Adjective বসেছে (Rule 1)।"
+    },
+    {
+      "id": "p4_9",
+      "type": "gapfill",
+      "question": "Complete the sentence using the correct adverb.",
+      "text": "We should speak the truth ___.",
+      "answers": ["always"],
+      "wordBank": ["always", "ever", "daily", "neatly", "fastly"],
+      "explanation": "always. সত্য বলার সময় বা ধারাবাহিকতা (Verb-কে বর্ণনা) বোঝাতে Adverb হিসেবে 'always' সঠিক (Rule 4)।"
+    },
+    {
+      "id": "p4_10",
+      "type": "match",
+      "question": "Match the sentences with their Relative Pronouns.",
+      "pairs": [
+        { "left": "This is the car", "right": "which I bought" },
+        { "left": "I know the girl", "right": "who sang well" },
+        { "left": "It was 1971", "right": "when we became free" }
+      ],
+      "explanation": "ব্যক্তি, বস্তু ও সময়ের জন্য সঠিক Relative Pronoun (Rule 5) ব্যবহার করা হয়েছে।"
+    }
+  ]
+}
+
