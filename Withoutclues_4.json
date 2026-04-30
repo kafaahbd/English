@@ -1,0 +1,85 @@
+{
+  "id": "Withoutclues_4",
+  "name": "Gap-filling Without Clues: Rules 4-6",
+  "type": "concept",
+  "parts": [
+    {
+      "text": "Rule 4: Verb + Adverb. (Verb-কে বর্ণনা করার জন্য সাধারণত শূন্যস্থানে Adverb বসে। অধিকাংশ ক্ষেত্রে Adjective-এর শেষে 'ly' যুক্ত করে Adverb গঠিত হয়।)",
+      "questions": [
+        {
+          "id": "r4_q1",
+          "type": "fill",
+          "question": "He walks ___ to the station.",
+          "answers": ["slowly", "quickly", "fast"],
+          "explanation": "Answer: slowly/quickly. হাঁটার ধরন বা গতি বোঝাতে এখানে Verb-এর পরে Adverb বসেছে।"
+        },
+        {
+          "id": "r4_q2",
+          "type": "fill",
+          "question": "The students are listening to the teacher ___.",
+          "answers": ["attentively", "carefully"],
+          "explanation": "Answer: attentively/carefully. শোনার ধরন বা মনোযোগ বোঝাতে এখানে Adverb ব্যবহৃত হয়েছে।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 5: Relative Pronoun (Who, Which, That). (Noun-এর ঠিক পরে বসে ওই Noun-টিকে নির্দেশ করার জন্য Relative Pronoun ব্যবহৃত হয়। ব্যক্তির জন্য Who এবং বস্তু বা প্রাণীর জন্য Which/That বসে।)",
+      "questions": [
+        {
+          "id": "r5_q1",
+          "type": "fill",
+          "question": "I know the man ___ came here yesterday.",
+          "answers": ["who"],
+          "explanation": "Answer: who. 'The man' একজন ব্যক্তি, তাই তাকে নির্দেশ করতে Relative Pronoun হিসেবে 'who' বসেছে।"
+        },
+        {
+          "id": "r5_q2",
+          "type": "fill",
+          "question": "This is the book ___ I lost.",
+          "answers": ["which", "that"],
+          "explanation": "Answer: which/that. 'The book' একটি বস্তু, তাই একে নির্দেশ করতে which অথবা that বসেছে।"
+        },
+        {
+          "id": "r5_q3",
+          "type": "match",
+          "pairs": [
+            { "left": "Person", "right": "Who" },
+            { "left": "Thing", "right": "Which" },
+            { "left": "Time", "right": "When" }
+          ],
+          "explanation": "Answer: Person-Who, Thing-Which, Time-When. এগুলো এন্টিসিডেন্ট অনুযায়ী Relative Pronoun-এর ব্যবহার।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 6: Modal Verb + Base Form of Verb. (Can, could, may, might, shall, should, will, would, must-এই শব্দগুলোর পরে সবসময় ভার্ব-এর মূল রূপ বা Base Form বসে।)",
+      "questions": [
+        {
+          "id": "r6_q1",
+          "type": "fill",
+          "question": "We must ___ our parents.",
+          "answers": ["obey", "respect", "follow"],
+          "explanation": "Answer: obey/respect. Must একটি Modal Verb, তাই এর পরে ভার্ব-এর বেস ফর্ম বসেছে।"
+        },
+        {
+          "id": "r6_q2",
+          "type": "mcq",
+          "question": "Choose the correct form: 'You should ___ the truth.'",
+          "options": ["speak", "speaks", "speaking", "spoke"],
+          "answer": "speak",
+          "explanation": "Answer: speak. Should একটি Modal verb, আর নিয়ম অনুযায়ী এর পর ভার্ব-এর কোনো পরিবর্তন হয় না (Base form)।"
+        },
+        {
+          "id": "r6_q3",
+          "type": "gapfill",
+          "question": "Complete the advice using modal verbs and actions.",
+          "text": "We should ___ trees and we must not ___ them.",
+          "answers": ["plant", "cut"],
+          "wordBank": ["plant", "cut", "planting", "cuts", "destroyed"],
+          "explanation": "Answer: plant, cut. Should এবং Must not এর পর ভার্ব-এর একদম মূল রূপ বা Base form বসেছে।"
+        }
+      ]
+    }
+  ]
+}
+
