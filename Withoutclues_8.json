@@ -1,0 +1,103 @@
+{
+  "id": "Withoutclues_8",
+  "name": "Grammar Mastery: Mixed Practice Set 05",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p5_1",
+      "type": "fill",
+      "question": "A ___ man always shines in life.",
+      "answers": ["hardworking", "diligent", "meritorious", "serious"],
+      "explanation": "hardworking/diligent. Man (Noun)-এর আগে তার গুণ প্রকাশ করতে Adjective হিসেবে 'hardworking' সঠিক (Rule 1)।"
+    },
+    {
+      "id": "p5_2",
+      "type": "fill",
+      "question": "He has been suffering ___ fever since Monday.",
+      "answers": ["from"],
+      "explanation": "from. রোগ বা কোনো সমস্যায় ভোগা বোঝাতে 'suffer'-এর সাথে এপ্রোপ্রিয়েট প্রিপজিশন 'from' বসে (Rule 2)।"
+    },
+    {
+      "id": "p5_3",
+      "type": "mcq",
+      "question": "Which conjunction is used to show a result: 'Health is wealth, ___ we should take care of it.'?",
+      "options": ["so", "but", "because", "or"],
+      "answer": "so",
+      "explanation": "so. কোনো কাজের ফলাফল বা সিদ্ধান্ত বোঝাতে Conjunction হিসেবে 'so' ব্যবহৃত হয় (Rule 9)।"
+    },
+    {
+      "id": "p5_4",
+      "type": "fill",
+      "question": "He is too weak ___ walk.",
+      "answers": ["to"],
+      "explanation": "to. উদ্দেশ্য বা সামর্থ্যের অভাব প্রকাশ করতে Infinitive (to + verb) বসে (Rule 7)।"
+    },
+    {
+      "id": "p5_5",
+      "type": "fill",
+      "question": "Wait here ___ I return.",
+      "answers": ["until", "till"],
+      "explanation": "until/till. কোনো নির্দিষ্ট সময় পর্যন্ত অপেক্ষা করা বোঝাতে এই Conjunction-টি বসে (Rule 9)।"
+    },
+    {
+      "id": "p5_6",
+      "type": "match",
+      "question": "Match the words with their correct grammar rules.",
+      "pairs": [
+        { "left": "Always", "right": "Adverb of Time" },
+        { "left": "Which", "right": "Relative Pronoun" },
+        { "left": "Must", "right": "Modal Verb" }
+      ],
+      "explanation": "শব্দগুলোর ব্যাকরণগত ভূমিকা অনুযায়ী সঠিক ম্যাচিং করা হয়েছে (Rules 4, 5 & 6)।"
+    },
+    {
+      "id": "p5_7",
+      "type": "fill",
+      "question": "He has a dog ___ is very faithful.",
+      "answers": ["which", "that"],
+      "explanation": "which/that. প্রাণী বা বস্তুর ক্ষেত্রে Relative Pronoun হিসেবে which অথবা that বসে (Rule 5)।"
+    },
+    {
+      "id": "p5_8",
+      "type": "fill",
+      "question": "Write the letter ___.",
+      "answers": ["neatly", "clearly", "carefully", "fast"],
+      "explanation": "neatly/clearly. কাজটা (Verb) কীভাবে করতে হবে তা বোঝাতে এখানে একটি Adverb প্রয়োজন (Rule 4)।"
+    },
+    {
+      "id": "p5_9",
+      "type": "gapfill",
+      "question": "Complete the sentence with correct words.",
+      "text": "We must ___ the environment and we should drive ___.",
+      "answers": ["save", "carefully"],
+      "wordBank": ["save", "carefully", "saving", "careful", "to save"],
+      "explanation": "save, carefully. Modal-এর পর base verb এবং কাজের ধরন বোঝাতে Adverb বসেছে (Rules 4 & 6)।"
+    },
+    {
+      "id": "p5_10",
+      "type": "fill",
+      "question": "He came home ___ evening.",
+      "answers": ["in the", "this"],
+      "explanation": "in the / this. দিনের নির্দিষ্ট ভাগের আগে সময় নির্দেশ করতে এই Adverbial phrase-টি বসে (Rule 8)।"
+    },
+    {
+      "id": "p5_11",
+      "type": "fill",
+      "question": "I avoid ___ in the river.",
+      "answers": ["swimming", "bathing"],
+      "explanation": "swimming. 'Avoid' ভার্বের পর অন্য কোনো ভার্ব আসলে তার সাথে 'ing' যুক্ত হয় (Rule 7)।"
+    },
+    {
+      "id": "p5_12",
+      "type": "match",
+      "question": "Match the pairs for correct articles and purpose.",
+      "pairs": [
+        { "left": "The Sun", "right": "Specific Object" },
+        { "left": "An honest man", "right": "Vowel Sound" },
+        { "left": "To buy a pen", "right": "Infinitive Purpose" }
+      ],
+      "explanation": "আর্টিকেলের ব্যবহার এবং ইনফিনিটিভের উদ্দেশ্য অনুযায়ী জোড়া মেলানো হয়েছে (Rules 3 & 7)।"
+    }
+  ]
+}
+
