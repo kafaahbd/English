@@ -1,0 +1,85 @@
+{
+  "id": "practice_grammar_mixed_11",
+  "name": "Board Question : M.B 2025",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p11_1",
+      "type": "fill",
+      "question": "Tourism is not as simple ___ it was 70 years ago.",
+      "answers": ["as"],
+      "explanation": "as. 'As...as' একটি তুলনা করার স্ট্রাকচার; এখানে পূর্বের অবস্থার সাথে বর্তমানের তুলনা করতে 'as' বসেছে।"
+    },
+    {
+      "id": "p11_2",
+      "type": "fill",
+      "question": "Today, many people ___ holidays as a necessity of life.",
+      "answers": ["take", "consider", "spend"],
+      "explanation": "take/consider. বাক্যের অর্থ সম্পন্ন করতে এখানে একটি উপযুক্ত Present Simple Verb প্রয়োজন।"
+    },
+    {
+      "id": "p11_3",
+      "type": "fill",
+      "question": "Holiday making has become a ___ industry now.",
+      "answers": ["major", "big", "large", "huge"],
+      "explanation": "major/big. Industry (Noun)-এর গুরুত্ব বোঝাতে এখানে Adjective হিসেবে 'major' সঠিক (Rule 1)।"
+    },
+    {
+      "id": "p11_4",
+      "type": "fill",
+      "question": "Tourism has created a large ___ of jobs for young people.",
+      "answers": ["number", "amount"],
+      "explanation": "number. গণনা করা যায় এমন কিছুর পরিমাণ বা সংখ্যা বোঝাতে 'number of' ব্যবহৃত হয় (Rule 13)।"
+    },
+    {
+      "id": "p11_5",
+      "type": "fill",
+      "question": "Modern people have more leisure time due ___ technological advancement.",
+      "answers": ["to"],
+      "explanation": "to. 'Due to' একটি এপ্রোপ্রিয়েট প্রিপজিশন যার অর্থ 'কারণে' (Rule 2)।"
+    },
+    {
+      "id": "p11_6",
+      "type": "mcq",
+      "question": "Which word is an Adjective in: 'Modern technology brings great opportunities'?",
+      "options": ["Modern", "Technology", "Brings", "Opportunities"],
+      "answer": "Modern",
+      "explanation": "Modern. এটি Technology (Noun)-কে বর্ণনা করছে, তাই এটি একটি Adjective (Rule 1)।"
+    },
+    {
+      "id": "p11_7",
+      "type": "fill",
+      "question": "In the past, travel was considered ___ luxury.",
+      "answers": ["a"],
+      "explanation": "a. 'Luxury' শব্দটি কনসোনেন্ট দিয়ে শুরু হয়েছে এবং এটি একটি সাধারণ নাউন হিসেবে বসলে 'a' বসে (Rule 3)।"
+    },
+    {
+      "id": "p11_8",
+      "type": "gapfill",
+      "question": "Complete the sentence with a modal and a verb.",
+      "text": "Now people ___ travel anywhere within their ___.",
+      "answers": ["can", "ability"],
+      "wordBank": ["can", "ability", "must", "able", "could"],
+      "explanation": "can, ability. সামর্থ্য বোঝাতে Modal 'can' এবং সীমানা বা সামর্থ্য বোঝাতে Noun 'ability' সঠিক (Rule 6)।"
+    },
+    {
+      "id": "p11_9",
+      "type": "fill",
+      "question": "Foreign visitors help to ___ employment for local people.",
+      "answers": ["create", "generate", "provide"],
+      "explanation": "create/generate. 'To' (Infinitive)-এর পর ভার্বের একদম মূল রূপ বা Base Form বসে (Rule 7)।"
+    },
+    {
+      "id": "p11_10",
+      "type": "match",
+      "question": "Match the causes with their effects.",
+      "pairs": [
+        { "left": "Cheap packages", "right": "made travel easy" },
+        { "left": "Leisure time", "right": "has increased" },
+        { "left": "Modern technology", "right": "brought opportunities" }
+      ],
+      "explanation": "টেক্সটের তথ্য অনুযায়ী কারণ ও ফলাফলের সঠিক সমন্বয়।"
+    }
+  ]
+}
+
