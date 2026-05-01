@@ -1,0 +1,119 @@
+{
+  "id": "practice_grammar_mixed_09",
+  "name": "Grammar Mastery: Final Mixed Set (Rules 1-18)",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p9_1",
+      "type": "fill",
+      "question": "___ of being poor, he donated some money.",
+      "answers": ["In spite"],
+      "explanation": "In spite. দারিদ্র্য সত্ত্বেও দান করা—এমন বৈপরীত্য বোঝাতে 'In spite of' বসে (Rule 16)।"
+    },
+    {
+      "id": "p9_2",
+      "type": "fill",
+      "question": "___ is a lot of noise in the street.",
+      "answers": ["There"],
+      "explanation": "There. কোনো কিছুর অস্তিত্ব বা অবস্থান বোঝাতে Introductory 'There' বসে (Rule 18)।"
+    },
+    {
+      "id": "p9_3",
+      "type": "gapfill",
+      "question": "Complete the parallel structure.",
+      "text": "She likes singing and ___.",
+      "answers": ["dancing"],
+      "wordBank": ["dancing", "dance", "to dance", "danced"],
+      "explanation": "dancing. 'Singing' যেহেতু V+ing, তাই Parallelism বজায় রাখতে পরেরটিও V+ing হবে (Rule 17)।"
+    },
+    {
+      "id": "p9_4",
+      "type": "fill",
+      "question": "He opted for coffee instead ___ tea.",
+      "answers": ["of"],
+      "explanation": "of. 'Instead of' মানে পরিবর্তে; একটির বদলে অন্যটি পছন্দ করা বোঝাতে এটি বসে (Rule 16)।"
+    },
+    {
+      "id": "p9_5",
+      "type": "mcq",
+      "question": "Which word correctly starts this sentence: '___ is 10 o'clock now'?",
+      "options": ["There", "It", "That", "This"],
+      "answer": "It",
+      "explanation": "It. সময়, আবহাওয়া বা দূরত্ব বোঝাতে Introductory 'It' ব্যবহৃত হয় (Rule 18)।"
+    },
+    {
+      "id": "p9_6",
+      "type": "fill",
+      "question": "The boy is both talented ___ hardworking.",
+      "answers": ["and"],
+      "explanation": "and. 'Both'-এর সাথে সবসময় জোড়া শব্দ হিসেবে 'and' বসে (Rule 11)।"
+    },
+    {
+      "id": "p9_7",
+      "type": "match",
+      "question": "Match the quantifiers and intensifiers.",
+      "pairs": [
+        { "left": "Too hot", "right": "to drink" },
+        { "left": "Many", "right": "Students" },
+        { "left": "Much", "right": "Milk" }
+      ],
+      "explanation": "সংখ্যা, পরিমাণ এবং তীব্রতা অনুযায়ী সঠিক সমন্বয় (Rules 13 & 14)।"
+    },
+    {
+      "id": "p9_8",
+      "type": "fill",
+      "question": "If I were a bird, I ___ fly in the sky.",
+      "answers": ["would", "could"],
+      "explanation": "would/could. এটি Second Conditional; অসম্ভব কল্পনা বোঝাতে If-ক্লজের পর would/could বসে (Rule 12)।"
+    },
+    {
+      "id": "p9_9",
+      "type": "fill",
+      "question": "The room was ___ by the servant.",
+      "answers": ["cleaned", "decorated", "opened"],
+      "explanation": "cleaned. প্যাসিভ ভয়েসে (was + V3) ভার্বের পাস্ট পার্টিসিপল ফর্ম হয় (Rule 10)।"
+    },
+    {
+      "id": "p9_10",
+      "type": "gapfill",
+      "question": "Complete the purpose phrase.",
+      "text": "He went to the library in order ___ borrow a book.",
+      "answers": ["to"],
+      "wordBank": ["to", "for", "of", "in"],
+      "explanation": "to. 'In order to' এর পর ভার্বের বেস ফর্ম বসে উদ্দেশ্য বোঝাতে (Rule 15)।"
+    },
+    {
+      "id": "p9_11",
+      "type": "fill",
+      "question": "I haven't seen him ___ a long time.",
+      "answers": ["for"],
+      "explanation": "for. সময়ের ব্যপ্তি (Duration) বোঝাতে 'for' প্রিপজিশন বসে (Rule 2/8)।"
+    },
+    {
+      "id": "p9_12",
+      "type": "fill",
+      "question": "Honesty is ___ noble virtue.",
+      "answers": ["a"],
+      "explanation": "a. 'Noble' কনসোনেন্ট দিয়ে শুরু হওয়ায় এর আগে 'a' বসেছে (Rule 3)।"
+    },
+    {
+      "id": "p9_13",
+      "type": "match",
+      "question": "Match the relative pronouns with their usage.",
+      "pairs": [
+        { "left": "Person", "right": "Who" },
+        { "left": "Thing", "right": "Which" },
+        { "left": "Place", "right": "Where" }
+      ],
+      "explanation": "এন্টিসিডেন্ট অনুযায়ী সঠিক রিলেটিভ প্রোনাউনের ব্যবহার (Rule 5)।"
+    },
+    {
+      "id": "p9_14",
+      "type": "fill",
+      "question": "You should walk ___ to stay fit.",
+      "answers": ["regularly", "daily", "fast"],
+      "explanation": "regularly. হাঁটার ধরন বা সময় বোঝাতে এখানে একটি Adverb প্রয়োজন (Rule 4)।"
+    }
+  ]
+}
+
