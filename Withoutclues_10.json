@@ -1,0 +1,65 @@
+{
+  "id": "grammar_gap_fill_04",
+  "name": "Gap-filling Without Clues: Rules 10-12",
+  "type": "concept",
+  "parts": [
+    {
+      "text": "Rule 10: Passive Voice (Be verb + V3). (যখন সাবজেক্ট নিজে কাজ না করে অন্যের দ্বারা প্রভাবিত হয়, তখন Am/Is/Are/Was/Were-এর পরে ভার্ব-এর পাস্ট পার্টিসিপল বা V3 ফর্ম বসে।)",
+      "questions": [
+        {
+          "id": "r10_q1",
+          "type": "fill",
+          "question": "English is ___ all over the world.",
+          "answers": ["spoken"],
+          "explanation": "Answer: spoken. ইংরেজি নিজে কথা বলে না, মানুষের দ্বারা বলা হয়, তাই এটি Passive (is + V3)।"
+        },
+        {
+          "id": "r10_q2",
+          "type": "fill",
+          "question": "The work was ___ by him.",
+          "answers": ["done", "finished", "completed"],
+          "explanation": "Answer: done/finished. কাজটি তার দ্বারা করা হয়েছে, তাই Was-এর পর V3 বসেছে।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 11: Correlative Conjunctions (Both...and, Either...or, Neither...nor, Not only...but also). (এই জোড়া শব্দগুলো সবসময় একসাথে বসে দুটি বিষয় বা ব্যক্তিকে যুক্ত করে।)",
+      "questions": [
+        {
+          "id": "r11_q1",
+          "type": "fill",
+          "question": "Neither he ___ his brother came.",
+          "answers": ["nor"],
+          "explanation": "Answer: nor. Neither-এর সাথে জোড়া শব্দ হিসেবে সবসময় 'nor' বসে।"
+        },
+        {
+          "id": "r11_q2",
+          "type": "fill",
+          "question": "He is not only a singer ___ a dancer.",
+          "answers": ["but also"],
+          "explanation": "Answer: but also. 'Not only'-এর সাথে জোড়া শব্দ হিসেবে 'but also' ব্যবহৃত হয়।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 12: Conditional Sentences (If + Clause). (If-এর পর Present Tense থাকলে পরের অংশে Future Tense (will/can) বসে। আবার If-এর পর Past Tense থাকলে পরের অংশে would/could বসে।)",
+      "questions": [
+        {
+          "id": "r12_q1",
+          "type": "fill",
+          "question": "If you study hard, you ___ pass.",
+          "answers": ["will", "can"],
+          "explanation": "Answer: will/can. এটি First Conditional; 'If' অংশটি Present Tense-এ আছে বলে পরের অংশে Will/Can বসেছে।"
+        },
+        {
+          "id": "r12_q2",
+          "type": "fill",
+          "question": "If I had a lot of money, I ___ help the poor.",
+          "answers": ["would", "could"],
+          "explanation": "Answer: would/could. এটি Second Conditional; 'If' অংশটি Past Tense-এ আছে বলে পরের অংশে Would/Could বসেছে।"
+        }
+      ]
+    }
+  ]
+}
+
