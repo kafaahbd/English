@@ -1,0 +1,112 @@
+{
+  "id": "practice_grammar_mixed_07",
+  "name": "Grammar Mastery: Mixed Practice Set 07 (Rules 1-12)",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p7_1",
+      "type": "fill",
+      "question": "A ___ student can easily carry out the task.",
+      "answers": ["meritorious", "diligent", "serious", "good"],
+      "explanation": "meritorious/diligent. Student (Noun)-এর আগে তার গুণ প্রকাশ করতে Adjective বসে (Rule 1)."
+    },
+    {
+      "id": "p7_2",
+      "type": "fill",
+      "question": "If you play in the rain, you ___ catch a cold.",
+      "answers": ["will", "can", "might"],
+      "explanation": "will/can. এটি First Conditional; If-অংশটি Present হওয়ায় পরের অংশে Future (will/can) বসে (Rule 12)."
+    },
+    {
+      "id": "p7_3",
+      "type": "gapfill",
+      "question": "Complete the sentence with correct word forms.",
+      "text": "He works ___ and he must ___ success.",
+      "answers": ["hard", "achieve"],
+      "wordBank": ["hard", "achieve", "hardly", "achieves", "to achieve"],
+      "explanation": "hard, achieve. কাজের ধরন বোঝাতে Adverb এবং Modal-এর পর base verb বসে (Rules 4 & 6)."
+    },
+    {
+      "id": "p7_4",
+      "type": "fill",
+      "question": "The boy, ___ is wearing a red shirt, is my cousin.",
+      "answers": ["who"],
+      "explanation": "who. ব্যক্তিকে নির্দেশ করতে Relative Pronoun হিসেবে 'who' ব্যবহৃত হয় (Rule 5)."
+    },
+    {
+      "id": "p7_5",
+      "type": "match",
+      "question": "Match the correlative conjunction pairs.",
+      "pairs": [
+        { "left": "Either", "right": "or" },
+        { "left": "Neither", "right": "nor" },
+        { "left": "Not only", "right": "but also" }
+      ],
+      "explanation": "এগুলো ইংরেজি গ্রামারের চিরস্থায়ী জোড়া শব্দ বা Correlative Conjunctions (Rule 11)."
+    },
+    {
+      "id": "p7_6",
+      "type": "fill",
+      "question": "The problem was ___ by the teacher.",
+      "answers": ["solved", "explained", "settled"],
+      "explanation": "solved/explained. Passive Voice-এ be verb (was)-এর পর ভার্বের V3 ফর্ম বসে (Rule 10)."
+    },
+    {
+      "id": "p7_7",
+      "type": "mcq",
+      "question": "Which article is correct: 'I saw ___ old owl yesterday'?",
+      "options": ["a", "an", "the", "no article"],
+      "answer": "an",
+      "explanation": "an. 'Old' শব্দের শুরুতে ভাওয়েল সাউন্ড থাকায় এর আগে 'an' বসে (Rule 3)."
+    },
+    {
+      "id": "p7_8",
+      "type": "fill",
+      "question": "We should go home ___ evening.",
+      "answers": ["before", "by", "in the"],
+      "explanation": "before/in the. সময় নির্দেশক পজিশনে অর্থ অনুযায়ী Adverb of Time বসে (Rule 8)."
+    },
+    {
+      "id": "p7_9",
+      "type": "fill",
+      "question": "Corruption is a great curse ___ a nation.",
+      "answers": ["for", "to"],
+      "explanation": "for/to. দেশের 'জন্য' অভিশাপ বোঝাতে এখানে সঠিক Appropriate Preposition বসেছে (Rule 2)."
+    },
+    {
+      "id": "p7_10",
+      "type": "gapfill",
+      "question": "Fill in the gaps with appropriate connectors.",
+      "text": "He is very rich ___ he is not happy ___ he is greedy.",
+      "answers": ["but", "because"],
+      "wordBank": ["but", "because", "and", "so", "though"],
+      "explanation": "but, because. বৈপরীত্য বোঝাতে but এবং কারণ বোঝাতে because বসে (Rule 9)."
+    },
+    {
+      "id": "p7_11",
+      "type": "fill",
+      "question": "Either you ___ your sister has broken the glass.",
+      "answers": ["or"],
+      "explanation": "or. 'Either'-এর সাথে জোড়া শব্দ হিসেবে সবসময় 'or' বসে (Rule 11)."
+    },
+    {
+      "id": "p7_12",
+      "type": "fill",
+      "question": "Rice is ___ in many countries.",
+      "answers": ["grown", "produced", "eaten"],
+      "explanation": "grown/eaten. ধান উৎপাদন বা খাওয়া হওয়া বোঝাতে Passive Voice (is + V3) ব্যবহৃত হয়েছে (Rule 10)."
+    },
+    {
+      "id": "p7_13",
+      "type": "match",
+      "question": "Match the purpose or phrases with correct verb forms.",
+      "pairs": [
+        { "left": "Look forward to", "right": "hearing" },
+        { "left": "Used to", "right": "going" },
+        { "left": "To buy", "right": "a pen" }
+      ],
+      "explanation": "বিশেষ ফ্রেজ এবং উদ্দেশ্য (Infinitive/Gerund) অনুযায়ী ভার্বের সঠিক রূপ (Rule 7)."
+    }
+  ]
+}
+
