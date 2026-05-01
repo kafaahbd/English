@@ -1,0 +1,64 @@
+{
+  "id": "grammar_gap_fill_06",
+  "name": "Gap-filling Without Clues: Rules 16-18",
+  "type": "concept",
+  "parts": [
+    {
+      "text": "Rule 16: Prepositional Phrases (In spite of / Instead of). (বিপরীত কোনো অবস্থা বোঝাতে 'In spite of' (সত্ত্বেও) এবং একটির বদলে অন্যটি বোঝাতে 'Instead of' (পরিবর্তে) ব্যবহৃত হয়। এগুলোর পর সাধারণত Noun বা Verb+ing বসে।)",
+      "questions": [
+        {
+          "id": "r16_q1",
+          "type": "fill",
+          "question": "___ of his poverty, he is honest.",
+          "answers": ["In spite"],
+          "explanation": "Answer: In spite. দারিদ্র্য থাকা সত্ত্বেও সততা—এমন বৈপরীত্য বোঝাতে 'In spite of' বসে।"
+        },
+        {
+          "id": "r16_q2",
+          "type": "fill",
+          "question": "He bought a pen instead ___ a pencil.",
+          "answers": ["of"],
+          "explanation": "Answer: of. 'Instead'-এর সাথে সবসময় 'of' প্রিপজিশনটি বসে একটির বদলে অন্যটি বোঝাতে।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 17: Parallelism (And/Or-এর দুই পাশে সমজাতীয় শব্দ)। (একটি বাক্যে 'and' বা 'or' দিয়ে একাধিক শব্দ যুক্ত থাকলে তাদের Grammatical রূপ একই হয়। যেমন: প্রথমটি Adjective হলে পরেরটিও Adjective হবে।)",
+      "questions": [
+        {
+          "id": "r17_q1",
+          "type": "fill",
+          "question": "He is honest and ___.",
+          "answers": ["pious", "sincere", "kind"],
+          "explanation": "Answer: pious/sincere. Honest একটি Adjective, তাই 'and'-এর পরে আরেকটি Adjective বসাতে হবে।"
+        },
+        {
+          "id": "r17_q2",
+          "type": "fill",
+          "question": "Reading and ___ are good habits.",
+          "answers": ["writing"],
+          "explanation": "Answer: writing. 'Reading' একটি Gerund (V+ing), তাই সমান্তরালতা বজায় রাখতে 'writing' বসানো হয়েছে।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 18: Introductory 'It' and 'There'. (বাক্যের শুরুতে যখন কোনো নির্দিষ্ট সাবজেক্ট থাকে না, তখন 'It' বা 'There' দিয়ে বাক্য শুরু হয়। সময় বা আবহাওয়া বোঝাতে It এবং কোনো কিছুর অস্তিত্ব বোঝাতে There বসে।)",
+      "questions": [
+        {
+          "id": "r18_q1",
+          "type": "fill",
+          "question": "___ is a big pond in our village.",
+          "answers": ["There"],
+          "explanation": "Answer: There. গ্রামে একটি পুকুরের অস্তিত্ব বা অবস্থান বোঝাতে 'There' ব্যবহৃত হয়েছে।"
+        },
+        {
+          "id": "r18_q2",
+          "type": "fill",
+          "question": "___ is raining since morning.",
+          "answers": ["It"],
+          "explanation": "Answer: It. আবহাওয়া বা বৃষ্টির কথা বলতে Introductory 'It' বসে।"
+        }
+      ]
+    }
+  ]
+}
