@@ -1,0 +1,130 @@
+{
+  "id": "practice_grammar_mixed_08",
+  "name": "Grammar Mastery: Mixed Practice Set 08 (Rules 1-15)",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p8_1",
+      "type": "fill",
+      "question": "The box is ___ heavy for me to carry.",
+      "answers": ["too"],
+      "explanation": "too. 'Too...to' স্ট্রাকচারটি নেতিবাচক অত্যধিকতা বোঝাতে ব্যবহৃত হয় (Rule 14)।"
+    },
+    {
+      "id": "p8_2",
+      "type": "match",
+      "question": "Match the quantifiers with their correct nouns.",
+      "pairs": [
+        { "left": "Many", "right": "Books" },
+        { "left": "Much", "right": "Water" },
+        { "left": "Few", "right": "Friends" }
+      ],
+      "explanation": "Countable নাউনের সাথে Many/Few এবং Uncountable-এর সাথে Much বসে (Rule 13)।"
+    },
+    {
+      "id": "p8_3",
+      "type": "fill",
+      "question": "He saved some money in order ___ buy a gift.",
+      "answers": ["to"],
+      "explanation": "to. 'In order to' ফ্রেজটি কোনো কাজের উদ্দেশ্য প্রকাশ করতে ব্যবহৃত হয় (Rule 15)।"
+    },
+    {
+      "id": "p8_4",
+      "type": "mcq",
+      "question": "Which sentence is in Passive Voice?",
+      "options": [
+        "He eats rice.",
+        "Rice is eaten by him.",
+        "He is eating rice.",
+        "He will eat rice."
+      ],
+      "answer": "Rice is eaten by him.",
+      "explanation": "Rice is eaten by him. Be verb + V3 (is eaten) প্যাসিভ ভয়েসের লক্ষণ (Rule 10)।"
+    },
+    {
+      "id": "p8_5",
+      "type": "fill",
+      "question": "If you study hard, you ___ get GPA 5.",
+      "answers": ["will", "can"],
+      "explanation": "will/can. এটি First Conditional; বর্তমান শর্তের ভবিষ্যৎ ফলাফল বোঝাতে will/can বসে (Rule 12)।"
+    },
+    {
+      "id": "p8_6",
+      "type": "fill",
+      "question": "I have very ___ knowledge about this matter.",
+      "answers": ["little", "much"],
+      "explanation": "little/much. Knowledge গণনা করা যায় না, তাই এখানে Little বা Much বসবে (Rule 13)।"
+    },
+    {
+      "id": "p8_7",
+      "type": "match",
+      "question": "Match the correlative conjunctions correctly.",
+      "pairs": [
+        { "left": "Neither", "right": "nor" },
+        { "left": "Both", "right": "and" },
+        { "left": "Not only", "right": "but also" }
+      ],
+      "explanation": "এগুলো নির্দিষ্ট জোড়া শব্দ যা গ্রামারে একসাথে বসে (Rule 11)।"
+    },
+    {
+      "id": "p8_8",
+      "type": "fill",
+      "question": "He is a ___ meritorious student.",
+      "answers": ["very", "highly", "so"],
+      "explanation": "very/highly. Adjective-এর তীব্রতা বা গুরুত্ব বাড়াতে এই Emphasizing Adverbs বসে (Rule 14)।"
+    },
+    {
+      "id": "p8_9",
+      "type": "gapfill",
+      "question": "Complete the sentence with an article and a relative pronoun.",
+      "text": "I saw ___ man ___ was blind.",
+      "answers": ["a", "who"],
+      "wordBank": ["a", "who", "an", "which", "the"],
+      "explanation": "a, who. অনির্দিষ্ট ব্যক্তি বোঝাতে 'a' এবং ব্যক্তিকে নির্দেশ করতে 'who' বসে (Rules 3 & 5)।"
+    },
+    {
+      "id": "p8_10",
+      "type": "fill",
+      "question": "We eat in order to ___.",
+      "answers": ["live", "survive"],
+      "explanation": "live/survive. In order to-এর পর সবসময় ভার্বের মূল রূপ (Base Form) বসে (Rule 15)।"
+    },
+    {
+      "id": "p8_11",
+      "type": "fill",
+      "question": "The letter was ___ by him yesterday.",
+      "answers": ["written", "posted", "sent"],
+      "explanation": "written. প্যাসিভ ভয়েসে (was + V3) ভার্বের পাস্ট পার্টিসিপল ফর্ম বসে (Rule 10)।"
+    },
+    {
+      "id": "p8_12",
+      "type": "match",
+      "question": "Match the verbs with their following forms.",
+      "pairs": [
+        { "left": "Look forward to", "right": "Meeting" },
+        { "left": "Want to", "right": "Play" },
+        { "left": "Avoid", "right": "Smoking" }
+      ],
+      "explanation": "ভার্বের ধরন অনুযায়ী Gerund (ing) বা Infinitive (to) এর ব্যবহার (Rule 7)।"
+    },
+    {
+      "id": "p8_13",
+      "type": "fill",
+      "question": "He is poor ___ he is honest.",
+      "answers": ["but", "yet"],
+      "explanation": "but/yet. দুটি বিপরীতধর্মী বৈশিষ্ট্যের মধ্যে সংযোগ ঘটাতে But বসে (Rule 9)।"
+    },
+    {
+      "id": "p8_14",
+      "type": "match",
+      "question": "Match the prepositions with their words.",
+      "pairs": [
+        { "left": "Abide", "right": "by" },
+        { "left": "Depend", "right": "on" },
+        { "left": "Suffer", "right": "from" }
+      ],
+      "explanation": "এগুলো এপ্রোপ্রিয়েট প্রিপজিশন বা নির্দিষ্ট শব্দের পর বসা প্রিপজিশন (Rule 2)।"
+    }
+  ]
+}
+
