@@ -1,0 +1,92 @@
+{
+  "id": "grammar_gap_fill_05",
+  "name": "Gap-filling Without Clues: Rules 13-15",
+  "type": "concept",
+  "parts": [
+    {
+      "text": "Rule 13: Quantifiers (Much, Many, Little, Few). (গণনা করা যায় এমন নাউনের আগে Many/Few বসে এবং গণনা করা যায় না এমন নাউনের আগে Much/Little বসে।)",
+      "questions": [
+        {
+          "id": "r13_q1",
+          "type": "fill",
+          "question": "I have very ___ friends in this city.",
+          "answers": ["few"],
+          "explanation": "Answer: few. Friends (বন্ধুরা) গণনা করা যায়, তাই এখানে few বসেছে।"
+        },
+        {
+          "id": "r13_q2",
+          "type": "fill",
+          "question": "There is ___ water in the glass.",
+          "answers": ["much", "little"],
+          "explanation": "Answer: much/little. Water (পানি) গণনা করা যায় না, তাই much বা little বসে।"
+        },
+        {
+          "id": "r13_q3",
+          "type": "mcq",
+          "question": "Which is correct for 'uncountable nouns'?",
+          "options": ["Many", "Few", "Much", "Several"],
+          "answer": "Much",
+          "explanation": "Answer: Much. আনকাউন্টেবল নাউনের পরিমাণ বোঝাতে Much ব্যবহৃত হয়।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 14: Emphasizing Adverb (Very, Too, So). (Adjective-এর তীব্রতা বা গুরুত্ব বাড়িয়ে দিতে তার আগে এই Adverb-গুলো বসে।)",
+      "questions": [
+        {
+          "id": "r14_q1",
+          "type": "fill",
+          "question": "The tea is ___ hot to drink.",
+          "answers": ["too"],
+          "explanation": "Answer: too. 'Too...to' একটি স্ট্রাকচার, যা নেতিবাচক অত্যধিকতা বোঝায়।"
+        },
+        {
+          "id": "r14_q2",
+          "type": "fill",
+          "question": "He is a ___ talented boy.",
+          "answers": ["very", "so"],
+          "explanation": "Answer: very. Talented (Adjective)-কে আরও জোরালো করতে 'very' বসেছে।"
+        },
+        {
+          "id": "r14_q3",
+          "type": "match",
+          "pairs": [
+            { "left": "Too cold", "right": "to go out" },
+            { "left": "Very happy", "right": "to see you" },
+            { "left": "So weak", "right": "that he cannot walk" }
+          ],
+          "explanation": "এগুলো Adverb-এর তীব্রতা অনুযায়ী বাক্যের বিভিন্ন গঠন।"
+        }
+      ]
+    },
+    {
+      "text": "Rule 15: Infinitive of Purpose (In order to). (শুধু 'To' ছাড়াও 'In order to' ব্যবহার করে কোনো কাজের উদ্দেশ্য আরও আনুষ্ঠানিকভাবে প্রকাশ করা হয়। এরপর ভার্বের Base Form বসে।)",
+      "questions": [
+        {
+          "id": "r15_q1",
+          "type": "fill",
+          "question": "He studied hard in order ___ pass the exam.",
+          "answers": ["to"],
+          "explanation": "Answer: to. 'In order to' একটি পূর্ণাঙ্গ ফ্রেজ যা উদ্দেশ্য বোঝাতে ব্যবহৃত হয়।"
+        },
+        {
+          "id": "r15_q2",
+          "type": "fill",
+          "question": "We eat in order to ___.",
+          "answers": ["live", "survive"],
+          "explanation": "Answer: live. In order to-এর পর ভার্বের মূল রূপ (Base form) বসে।"
+        },
+        {
+          "id": "r15_q3",
+          "type": "gapfill",
+          "question": "Use the correct forms.",
+          "text": "He went to Dhaka in order to ___ a job.",
+          "answers": ["get"],
+          "wordBank": ["get", "getting", "got", "gets"],
+          "explanation": "Answer: get. উদ্দেশ্যমূলক ফ্রেজের পর ভার্বের কোনো পরিবর্তন হয় না।"
+        }
+      ]
+    }
+  ]
+}
+
