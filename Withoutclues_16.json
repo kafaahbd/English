@@ -1,0 +1,84 @@
+{
+  "id": "practice_grammar_mixed_10",
+  "name": "Board Question : D.B 2025",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p10_1",
+      "type": "fill",
+      "question": "The industrial waste is very ___ for our health.",
+      "answers": ["toxic", "poisonous", "harmful", "dangerous"],
+      "explanation": "toxic/poisonous. বর্জ্যের নেতিবাচক গুণ বোঝাতে এখানে Adjective প্রয়োজন (Rule 1)।"
+    },
+    {
+      "id": "p10_2",
+      "type": "fill",
+      "question": "We must find a ___ place to dump the rubbish.",
+      "answers": ["suitable", "proper", "fixed", "safe"],
+      "explanation": "suitable/proper. স্থানের (Noun) আগে তার বৈশিষ্ট্য বোঝাতে Adjective বসেছে (Rule 1)।"
+    },
+    {
+      "id": "p10_3",
+      "type": "fill",
+      "question": "It is not easy to get ___ of all these refuse.",
+      "answers": ["rid"],
+      "explanation": "rid. 'Get rid of' একটি ফ্রেজ যার অর্থ মুক্তি পাওয়া বা মুক্তি দেওয়া (Rule 2)।"
+    },
+    {
+      "id": "p10_4",
+      "type": "fill",
+      "question": "These wastes are seriously ___ the environment.",
+      "answers": ["polluting", "harming", "damaging"],
+      "explanation": "polluting. বাক্যটি Continuous Tense-এ আছে, তাই Be verb (are)-এর পর ভার্বের সাথে ing যুক্ত হয়েছে।"
+    },
+    {
+      "id": "p10_5",
+      "type": "mcq",
+      "question": "Which article is correct: 'Air is ___ important element'?",
+      "options": ["a", "an", "the", "no article"],
+      "answer": "an",
+      "explanation": "an. 'Important' এর শুরুতে ভাওয়েল সাউন্ড থাকায় এখানে 'an' বসে (Rule 3)।"
+    },
+    {
+      "id": "p10_6",
+      "type": "fill",
+      "question": "Water is polluted ___ different kinds of waste.",
+      "answers": ["by", "with"],
+      "explanation": "by. প্যাসিভ সেন্সে কার দ্বারা দূষণ হচ্ছে তা বোঝাতে 'by' প্রিপজিশন বসে (Rule 10)।"
+    },
+    {
+      "id": "p10_7",
+      "type": "fill",
+      "question": "If we want to live a ___ life, we must reduce pollution.",
+      "answers": ["healthy", "comfortable", "happy", "peaceful"],
+      "explanation": "healthy. জীবনের (Noun) গুণ বা ধরন বোঝাতে এখানে Adjective বসেছে (Rule 1 & 12)।"
+    },
+    {
+      "id": "p10_8",
+      "type": "gapfill",
+      "question": "Complete the sentence about prevention.",
+      "text": "Total prevention may be ___ but we ___ reduce it.",
+      "answers": ["impossible", "can"],
+      "wordBank": ["impossible", "can", "possible", "must", "difficulty"],
+      "explanation": "impossible, can. অর্থ অনুযায়ী অসম্ভব এবং সামর্থ্য বোঝাতে Modal 'can' বসেছে (Rule 6 & 9)।"
+    },
+    {
+      "id": "p10_9",
+      "type": "fill",
+      "question": "We should raise awareness ___ the people.",
+      "answers": ["among", "between"],
+      "explanation": "among. অনেকের মধ্যে কিছু করা বা ছড়ানো বোঝাতে 'among' বসে (Rule 2)।"
+    },
+    {
+      "id": "p10_10",
+      "type": "match",
+      "question": "Match the elements with their status.",
+      "pairs": [
+        { "left": "Air is polluted", "right": "by smoke" },
+        { "left": "Water is polluted", "right": "by filth" },
+        { "left": "We must raise", "right": "awareness" }
+      ],
+      "explanation": "টেক্সটের বিষয়বস্তু অনুযায়ী দূষণের উৎস ও সমাধানের ম্যাচিং।"
+    }
+  ]
+}
